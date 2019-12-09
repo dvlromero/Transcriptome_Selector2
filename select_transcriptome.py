@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 import sys
 
 sys.argv[5] #Fastq for total numbr of reads, Coutn, Count2, (assembly stats 1 and 2 for error rate) transcriptome 1, transcriptome 2 IN THIS ORDER
